@@ -1,10 +1,13 @@
 <div align = center>
 
 ---
+
+<br><br>
+
 # 'HelloMobileDev'
 this is a flutter app project by James Michael Mejares made for Act#01 of Mobile App Development
 
-<br><br><br>
+<br><br>
 
 ---
 
